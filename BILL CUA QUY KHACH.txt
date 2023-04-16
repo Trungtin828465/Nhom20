@@ -1,0 +1,25 @@
+<<<<<<<< Nha Hang TNPN >>>>>>>>
+--Ten khach hang: Nguyen trung in
+--Tuoi khach hang: 2
+--Gioi tinh: nam
+--SDT khach hang: 234
+<<Danh sach mon nuong>>
+2. Tom Nuong Muoi Ot     70k
+3. Thit Bo Nuong Tang    210k
+4. Thit Bo Nuong Cay     150k
+5. Muc Nuong             120k
+6. Suon Nuong Han Quoc   140k
+<<Danh sach mon lau>>
+2. Lau Thai Chua Cay     100k
+3. Lau Ca Keo            125k
+4. Lau Ech               100k
+5. Lau Reu Cua           95k
+6. Lau Bo                130k
+<<Danh sach mon nuoc>>
+2. Bia SaiGon            13k
+3. Sting                 10k
+4. 7up                   10k
+5. Pepsi                 10k
+6. Nuoc Suoi             10k
+Tong Bill Cua Quy Khach La: 1293
+---------Cam on quy khach------------

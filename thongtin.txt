@@ -1,0 +1,4 @@
+--Ten khach hang: Nguyen trung in
+--Tuoi khach hang: 2
+--Gioi tinh: nam
+--SDT khach hang: 234
